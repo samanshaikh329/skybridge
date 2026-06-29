@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Skybridge Command';
+$pageTitle = 'Skybridge';
 $siteEmail = 'info@skybridgefacilities.uk';
 $sitePhone = '07562700274';
 $pageDescription = 'An industrial-grade facility management portal engineered for precision oversight, reactive maintenance dispatch, and total infrastructure sovereignty.';
@@ -10,7 +10,7 @@ $logoPath = '../image/SkyBridge-wht.png';
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skybridge Command</title>
+  <title>SkyBridge</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="icon" href="https://media.base44.com/images/public/6a287e75500375f8ef87ff57/50b232772_logo.png" type="image/png">
   <link rel="stylesheet" href="style_2.css">
